@@ -1,0 +1,5 @@
+%include "Modules/strlen.asm"
+%include "Modules/exit.asm"
+%include "Modules/print.asm"
+%include "Modules/input.asm"
+%include "Modules/getcwd.asm"
